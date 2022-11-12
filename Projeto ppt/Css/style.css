@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+
+h1 {
+    text-align: center;
+
+}
+h2{
+    margin-top: 10px;
+}
+.player_options img{
+    max-width: 300px;
+    opacity: 0.3;
+    cursor: pointer;
+    width: 50%;
+}
+.enemy-options img{
+    max-width: 300px;
+    opacity: 0.3;
+    width: 50%;
+}
+.align{
+    display: flex;
+    
+
+}
